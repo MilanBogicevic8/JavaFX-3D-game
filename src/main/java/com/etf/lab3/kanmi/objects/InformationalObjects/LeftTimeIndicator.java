@@ -40,5 +40,6 @@ public class LeftTimeIndicator extends SubScene {
 
     public void empty_string(){
         this.text.setText("");
-    }
+    }//
+
 }
